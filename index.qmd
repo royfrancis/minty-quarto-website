@@ -1,0 +1,29 @@
+---
+title: "Minty Quarto Website"
+subtitle: "A quarto website template for NBIS support projects"
+date: ""
+author: ""
+toc: false
+number-sections: false
+format: html
+execute:
+  freeze: false
+---
+
+::: {.alert .alert-secondary}
+**NBIS ID**: XXXX  
+**Request by**: John Doe (john.doe@ki.se)  
+**Principal Investigator**: John Doe (john.doe@ki.se)  
+**Organisation**: Some University  
+**NBIS Staff**: John Doe (john.doe@nbis.se)  
+:::
+
+**Support request**
+
+Long description of the support request.
+
+---
+
+::: {.small}
+Updated: <?lua.date?> at <?lua.time?>.
+:::
