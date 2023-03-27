@@ -1,6 +1,6 @@
 ---
-title: "Minty Quarto Website"
-subtitle: "A quarto website template for NBIS support projects"
+title: "NBIS support XXXX"
+subtitle: "Project title"
 date: ""
 author: ""
 toc: false
